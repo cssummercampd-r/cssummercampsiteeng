@@ -17,19 +17,18 @@
             <a
               href="#aboutus"
               class="bg-pink-400 py-2 px-2 rounded-full font-bold text-xl text-white hover:text-yellow-400"
-              >Sobre Nosotros</a
-            >
+              > About us</a>
             <router-link
               to="/student"
               class="  bg-pink-400 py-2 px-2 rounded-full font-bold text-xl text-white hover:text-yellow-400"
-              >Portafolios De Estudiantes</router-link
+              >Student Portfolios</router-link
             >
             <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
             <a
               href="#contact"
               class=" bg-pink-400 py-2 px-2 rounded-full font-bold text-white text-xl hover:text-yellow-400"
             >
-              Contactenos
+              Contact Us
             </a>
           </div>
           <div class="flex  hidden sm:block">
@@ -43,11 +42,11 @@
         >
           <div class="">
             <h1 class="text-9xl text-white  font-bold ">
-              Campamento <br />
-              de Verano <br />
-              de  Informática<br />
-              para<br />
-              <span class="text-pink-400">Chicas 2021 </span>
+              Computer <br />
+              Science <br />
+              Summer Camp<br />
+              For<br />
+              <span class="text-pink-400">Girls 2021 </span>
               <span style="color: #002962"> D</span>.<span
                 style="color: #D62F44"
                 >R</span
@@ -68,24 +67,10 @@
         >
           <div>
             <h1 class="text-white font-semibold text-7xl mb-3" id="aboutus">
-              Sobre Nosotros
+              About Us
             </h1>
             <p class="text-white font-semibold">
-              Cuando emigré de República Dominicana a Estados Unidos, no tenía
-              idea de las oportunidades que tendría. En la escuela secundaria,
-              un programa extracurricular para niños desfavorecidos trajo la
-              educación en ciencias de la computación a mi vida. Hoy, graduada
-              de la universidad con un título en informática, puedo devolver el
-              favor a mi comunidad al llevar esa misma educación a las niñas
-              desfavorecidas en la República Dominicana. En este programa de
-              verano de 5 semanas, las niñas aprenden a crear sitios web usando
-              HTML y CSS. También aprenden a ser agentes de cambio en sus
-              comunidades y están capacitados para hacerlo a través de esta
-              nueva habilidad. Todo este trabajo es posible gracias a mis padres
-              Justo Peña y Mercedes Torrez, mis más queridos amigos y colegas de
-              la universidad Isabel Gómez y Mikael Moise, la Universidad
-              Nacional Evangélica en R.D., y por supuesto nuestros donantes.
-            </p>
+              When Immigrated to the United States from the Dominican Republic, I had no idea of the opportunites I would have. In high schoolm an after-school program fro underprivileged children brought computer science education into my life. Today, a college graduate with a degree in computer science, I can return the favor to my community by bringing that same education to underprivileged girls in the Dominican Republic. In this 5-week summer program, girls learn to create websites using HTML and css. They also learn to be agents of change in their communities anda re trained to do so through this new skill. All this work is possible thanks to my parents Justo Peña and Mercedes Torrez, my dearest friends and colleauges from Isabel Gomez and Mikael Moise, The National Evangelical univeristy in D.R and of course our donors.   </p>
           </div>
         </div>
         <div
@@ -94,7 +79,7 @@
         >
           <div class="font-semibold text-white">
             <h1 class="text-white font-semibold text-6xl mb-7">
-              Nuestros Donantes
+              Our Donors
             </h1>
             <div style="float: left; width: 33%;">
               <ul>
@@ -134,10 +119,10 @@
                 <li>Sushmitha Ram</li>
                 <li>Suzanne Emerson</li>
                 <li>Whitney Wilde</li>
-                <li>14 otros donantes anónimos</li>
+                <li>14 other anonymous donors</li>
               </ul>
             </div>
-            <p class="text-2xl text-yellow-400">¡Les agradecemos!</p>
+            <p class="text-2xl text-yellow-400">Thank you!</p>
           </div>
         </div>
       </div>
@@ -159,7 +144,7 @@
           <router-link
             to="/gallery"
             class="  font-bold text-xl text-white hover:text-yellow-400"
-            >Ver Más Aquí</router-link
+            >View More Here</router-link
           >
         </button>
   </section>
@@ -173,10 +158,10 @@
               <h1
                 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200"
               >
-                ¡Contactenos!
+                Contact Us!
               </h1>
               <p class="text-black">
-                Complete el siguiente formulario para enviarnos un mensaje.
+                Complete the following form to send us a message.
               </p>
             </div>
             <div class="m-7">
@@ -202,7 +187,7 @@
                   <label
                     for="name"
                     class="font-semibold text-lg block mb-2 text-sm text-gray-600 dark:text-gray-400"
-                    >Nombre completo</label
+                    >Complete Name</label
                   >
                   <input
                     type="text"
@@ -217,7 +202,7 @@
                   <label
                     for="email"
                     class="font-semibold block text-lg mb-2 text-sm text-gray-600 dark:text-gray-400"
-                    >Dirección de correo electrónico</label
+                    >Email address</label
                   >
                   <input
                     type="email"
@@ -232,13 +217,13 @@
                   <label
                     for="message"
                     class="font-semibold text-lg block mb-2 text-sm text-gray-600 dark:text-gray-400"
-                    >Tu mensaje</label
+                    >Your message</label
                   >
                   <textarea
                     rows="5"
                     name="message"
                     id="message"
-                    placeholder="¡Envíanos una nota!"
+                    placeholder="Enter your note"
                     class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
                     required
                   ></textarea>
@@ -249,7 +234,7 @@
                     class="w-full text-lg font-bold px-3 py-4 text-white bg-indigo-500 rounded-md focus:outline-none"
                     style="background-color: #7dd959"
                   >
-                    ¡Enviar mensaje!
+                    Send Message!
                   </button>
                 </div>
                 <p class="text-base text-center text-gray-400" id="result"></p>

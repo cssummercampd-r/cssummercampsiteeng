@@ -22,7 +22,7 @@
           <router-link
             to="/"
             class="text-white font-semibold text-lg hover:text-blue-400"
-            >Volver a casa</router-link>
+            >Back Home</router-link>
 
           <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
         </div>
@@ -30,7 +30,7 @@
     </header>
   <div class=" relative items-center justify-center">
     <h1 class="text-center text-7xl font-bold p-4 text-white pb-8">
-      Galería de fotos de verano 2021
+      Summer 2021 Photo Gallery
     </h1>
     <div class="lg:flex items-center container mx-auto my-auto ">
           <div class=" lg:m-4 my-12 mx-8  ">

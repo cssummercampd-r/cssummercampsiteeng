@@ -26,7 +26,7 @@
             <router-link
               to="/"
               class="text-white font-semibold text-lg hover:text-blue-400"
-              >Volver a casa</router-link>
+              >Back home</router-link>
 
             <!-- <router-link :to="/studentwork" class="text-white font-semibold text-lg hover:text-blue-400"> Student Portfolios</router-link> -->
           </div>
@@ -35,7 +35,7 @@
       <div>
         <div class="relative items-center justify-center">
           <h1 class="text-center text-7xl font-bold p-4 text-white">
-            ¡Portafolios de estudiantes!
+            Student Portfolios!
           </h1>
           <div class="lg:flex items-center container mx-auto my-auto">
             <!-- Alisha Nicole Polanco Gutiérrez -->
@@ -73,7 +73,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -96,8 +96,8 @@
                   Ana Yudelka Cabrera
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Ana. Tengo 15 años y me gusta el kpop, los
-                  deportes, y aprender de otras culturas en el mundo.
+                  My name is Ana. I am 15 years old and I like kpop,
+                  sports, and learn about other cultures in the world.
                 </p>
                 <div class="mt-5">
                   <a
@@ -112,7 +112,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -135,9 +135,7 @@
                   Biannely Toribio
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Biannely Toribio y tengo 18 años. Mi color
-                  favorito es el amarillo y me gusta jugar fútbol. Mis
-                  pasatiempos favoritos son: dormir, leer y comer.
+                  My name is Biannely Toribio and I am 18 years old. My favorite color is yellow and I like to play soccer. My favorite hobbies are: sleeping, reading and eating.
                 </p>
                 <div class="mt-5">
                   <a
@@ -152,7 +150,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -178,10 +176,10 @@
                   Camil Nicole Inoa Peralta
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Camil Inoa, tengo 16 años. Me gusta ver series,
-                  escuchar música, leer y el maquillaje. Mi color favorito es el
-                  morado. Cuando sea grande quiero estudiar turismo, artes
-                  cinematográficas y la profesión de maestra.
+                  My name is Camil Inoa, I am 16 years old. I like to watch series,
+                  listening to music, reading and makeup. My favorite color is
+                  purple. When I grow up I want to study tourism, arts
+                  cinematographic films and the teaching profession.
                 </p>
                 <div class="mt-5">
                   <a
@@ -196,7 +194,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -219,10 +217,10 @@
                   Claudia Ferrera Mateo
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Claudia Ferrera, y tengo 18 años. Mi color
-                  favorito es el azul y me gusta jugar tenis, fútbol y voleibol.
-                  Mis pasatiempos favoritos son: dormir, comer y ver shows de
-                  televisión. En un futuro me gustaría ser azafata.
+                  My name is Claudia Ferrera, and I am 18 years old. My color
+                  My favorite is blue and I like to play tennis, soccer and volleyball.
+                  My favorite hobbies are: sleeping, eating and watching music shows.
+                  TV. In the future I would like to be a stewardess.
                 </p>
                 <div class="mt-5">
                   <a
@@ -237,7 +235,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -260,12 +258,12 @@
                   Euleidy Gómez Hernández
                 </h3>
                 <p class="text-justify">
-                  ¡Hola! Mi nombre es Euleidy Gómez y tengo 14 años. Me gusta
-                  mucho leer, escuchar música, ver películas y actuar. Cuando
-                  sea mayor de edad quiero estudiar medicina o artes
-                  cinematográficas, siendo actriz o directora de cine. Mi color
-                  favorito es el morado y si este no existiera, sería el azul
-                  marino o azul bondi.
+                  Hello! My name is Euleidy Gómez and I am 14 years old. I like
+                  a lot of reading, listening to music, watching movies and acting. When
+                  I am of legal age I want to study medicine or arts
+                  cinematographic, being an actress or a film director. My color
+                  favorite is purple and if this did not exist, it would be blue
+                  navy or bondi blue.
                 </p>
                 <div class="mt-5">
                   <a
@@ -280,7 +278,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -306,10 +304,10 @@
                   Kathifer Fernanda Rodríguez Jiménez
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Kathifer Rodríguez tengo 15 años. Mi color
-                  favorito es el morado y me gusta el voleibol. Me interesa
-                  mucho la medicina y por ahora estoy interesada en ser una
-                  enfermera.
+                  My name is Kathifer Rodríguez I am 15 years old. My color
+                  My favorite is purple and I like volleyball. I'm interested
+                  medicine a lot and for now I'm interested in being a
+                  nurse.
                 </p>
                 <div class="mt-5">
                   <a
@@ -324,7 +322,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -347,9 +345,9 @@
                   Laisha Nicole Polanco Gutiérrez
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Laisha Polanco, y tengo 14 años de edad. En mi
-                  tiempo libre me gusta jugar con mis amigos y utilizar la
-                  tecnología. Me interesa mucho la salud de nuestro planeta.
+                  My name is Laisha Polanco, and I am 14 years old. In Myself
+                  free time I like to play with my friends and use the
+                  technology. I am very interested in the health of our planet.
                 </p>
                 <div class="mt-5">
                   <a
@@ -364,7 +362,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -387,9 +385,9 @@
                   Linette Leonardo Domínguez
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Linette Leonardo, y tengo 13 años. Me encantan el
-                  mundo cinemático de Marvel y de Harry Potter. Cuando sea
-                  grande me interesa ser azafata, modelo, o actriz.
+                  My name is Linette Leonardo, and I am 13 years old. I love the
+                  cinematic world of Marvel and Harry Potter. Whenever
+                  I am interested in being a stewardess, a model, or an actress.
                 </p>
                 <div class="mt-5">
                   <a
@@ -404,7 +402,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -430,9 +428,9 @@
                   Ruth Mariel Martínez Valerio
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Ruth Mariel Martinez Valerio. Me gusta mucho la
-                  tecnología, me gusta la musica, me encanta explorar la
-                  naturaleza y pasar tiempo con mis amigos y familiares.
+                  My name is Ruth Mariel Martinez Valerio. I really like the
+                  technology, I like music, I love exploring the
+                  nature and spending time with my friends and family.
                 </p>
                 <div class="mt-5">
                   <a
@@ -447,7 +445,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -470,9 +468,9 @@
                   Sharlenys Sosa Rodríguez
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Sharlenys tengo 13 años. Me gusta bailar, hacer
-                  chistes, y ayudar a los demás con lo que necesitan como lo
-                  hice en mi proyecto final.
+                  My name is Sharlenys I am 13 years old. I like to dance, do
+                  jokes, and help others with what they need as what
+                  I did in my final project.
                 </p>
                 <div class="mt-5">
                   <a
@@ -487,7 +485,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -510,10 +508,10 @@
                   Vanessa Francheska Diaz
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Vanessa Francheska Díaz y tengo 19 años. Mis
-                  colores favoritos son el rosa, negro, blanco y morado. Me
-                  gusta jugar voleibol y aspiro a estudiar en una universidad de
-                  los Estados Unidos.
+                  My name is Vanessa Francheska Díaz and I am 19 years old. My
+                  Favorite colors are pink, black, white, and purple. I
+                  I like to play volleyball and I aspire to study at a university in
+                  the United States.
                 </p>
                 <div class="mt-5">
                   <a
@@ -528,7 +526,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -554,8 +552,8 @@
                   Yaritza Herrera
                 </h3>
                 <p class="text-justify">
-                  Me llamo Yaritza y tengo 14 años. Soy de la piña y vivo con mi
-                  madrina. Cuando sea grande me gustaría ser militar.
+                  My name is Yaritza and I am 14 years old. I'm from La Piña and I live with me
+                  godmother. When I grow up I would like to be in the military.
                 </p>
                 <div class="mt-5">
                   <a
@@ -570,7 +568,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -593,10 +591,10 @@
                   Yasmeiryn Altagracia Rodríguez
                 </h3>
                 <p class="text-justify">
-                  Yasmeiryn Rodríguez tengo 13 años estudio mucho. Me gusta
-                  ayudar a muchas personas, me gusta mucho este curso de
-                  informática y me encantan las matemáticas. Cuando crezca
-                  quiero ser contable.
+                  I am 13 years old I study a lot. I like
+                  help many people, I really like this course of
+                  computer science and I love math. When I grow up
+                  I want to be an accountant.
                 </p>
                 <div class="mt-5">
                   <a
@@ -611,7 +609,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
@@ -634,9 +632,9 @@
                   Yonairy Teresa Almonte Toribio
                 </h3>
                 <p class="text-justify">
-                  Mi nombre es Yonairy y tengo 13 años. Me gusta ayudar a los
-                  demás como lo voy a hacer con mi proyecto final. También me
-                  gusta bailar, pasar mucho tiempo con mis amigas.
+                  My name is Yonairy and I am 13 years old. I like to help
+                  others as I am going to do with my final project. me too
+                  like to dance, spend a lot of time with my friends.
                 </p>
                 <div class="mt-5">
                   <a
@@ -651,7 +649,7 @@
                       bg-gray-400
                       text-gray-100
                     "
-                    >Ver portafolio</a
+                    >See portfolio</a
                   >
                 </div>
               </div>
