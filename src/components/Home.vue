@@ -161,7 +161,7 @@
                 Contact Us!
               </h1>
               <p class="text-black">
-                Complete the following form to send us a message.
+                Complete the following form to send us a message!
               </p>
             </div>
             <div class="m-7">
@@ -170,7 +170,6 @@
                 method="POST"
                 id="form"
               >
-                <!-- <input type="hidden" name="apikey" value="ad487da6-6a17-4490-9501-ec867a7a4c03"> -->
                 <input
                   type="hidden"
                   name="subject"
@@ -244,9 +243,6 @@
         </div>
       </div>
     </section>
-
-
-
     <!-- Footer -->
     <section class="h-full bg-gray-800">
       <div class="py-6 px-16 flex justify-between">

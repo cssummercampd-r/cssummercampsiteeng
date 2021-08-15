@@ -49,8 +49,7 @@
                 bg-white
                 my-12
                 mx-8
-              "
-            >
+              ">
               <div class="p-4">
                 <h3 class="font-medium text-black text-lg my-2 uppercase">
                   Alisha Nicole Polanco Gutiérrez
